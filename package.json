@@ -20,7 +20,9 @@
     "url": "https://github.com/loraineamaral/cardValidator-lib/issues"
   },
   "homepage": "https://github.com/loraineamaral/cardValidator-lib#readme",
-  "dependencies": {
-    "eslint": "^5.16.0"
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-plugin-react": "^7.12.4"
   }
 }
