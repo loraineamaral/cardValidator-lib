@@ -1,4 +1,4 @@
-# Validador de cartão de crédito v.1.0.3
+# Validador de cartão de crédito v.1.0.5
 
 **Esta biblioteca se destina à validação de números de cartão de crédito, para uso em aplicações web.**
 Na versão atual é capaz de validar o número de cartão de crédito retornando true ou false.
