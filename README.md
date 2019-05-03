@@ -1,4 +1,4 @@
-# Validador de cartão de crédito v.1.0.0
+# Validador de cartão de crédito v.1.0.1
 
 **Esta biblioteca se destina à validação de números de cartão de crédito, para uso em aplicações web.**
 Na versão atual é capaz de validar o número de cartão de crédito retornando true ou false.
@@ -16,7 +16,7 @@ $  npm install cardvalidator-la
 ```node
 
 > const cartão de créditoValidator = require("cardvalidator-la");
-> console.log(cartão de créditoValidator(""))
+> console.log(cartão de créditoValidator("5427803680272037"))
 > // returns "true"
 
 ```
