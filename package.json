@@ -1,6 +1,6 @@
 {
   "name": "cardvalidator-la",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Biblioteca js para validação de Cartão de Crédito",
   "main": "./lib/index.js",
   "scripts": {
